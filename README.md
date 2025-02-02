@@ -1,5 +1,5 @@
 # Hey 💜 I'm Emmi, a Creative Techie!  
-### Business IT Student | Web Content & Project Coordination | Exploring Mobile Dev & AI  
+### Creative Techie | Business Information Technology Student | Web Content & Project Coordination  
 
 I'm a **Business Information Technology student** with hands-on experience in **web content management, project coordination, and customer success**. I’ve worked with **WordPress, Jira, Trello, and Slack**, ensuring structured content and user-friendly digital experiences.  
 

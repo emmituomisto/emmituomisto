@@ -9,7 +9,7 @@ Welcome to my GitHub! ✨ Here, you’ll find my **UI/UX design projects, struct
 
 💜 **UI/UX Design Projects** – Creating clean, structured, and user-friendly digital experiences (**Figma-based prototypes**)  
    - **Weather App UI – Figma Prototype** → [View Repository](https://github.com/emmituomisto/weather-app-ui) 
-   - **Greenola – Mobile App UI – Figma Prototype** → [GitHub Repo]  
+   - **Greenola – Mobile App UI – Figma Prototype** → [View Repository](https://github.com/emmituomisto/greenola-ui-design)  
  
 
 **More projects coming soon!**  

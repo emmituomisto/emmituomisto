@@ -6,9 +6,11 @@ Welcome to my GitHub! ✨ Here, you’ll find my **UI/UX design projects, struct
 ---
 
 ### **What You’ll Find Here**  
-💜 **UI/UX Design Projects** – Creating clean, structured, and user-friendly digital experiences (**Figma-based prototypes**)  
-    💜 ** Weather App UI – Figma Prototype** → [GitHub Repo]  
-    💜 ** Greenola – Mobile App UI – Figma Prototype** → [GitHub Repo]  
+
+💜 **UI/UX Design Projects** – Creating clean, structured, and user-friendly digital experiences (**Figma-based prototypes**)
+
+    💜 **Weather App UI – Figma Prototype** → [GitHub Repo]  
+    💜 **Greenola – Mobile App UI – Figma Prototype** → [GitHub Repo]  
 
 **More projects coming soon!**  
 

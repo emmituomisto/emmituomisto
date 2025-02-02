@@ -16,10 +16,10 @@ Welcome to my GitHub! ✨ Here, you’ll find my **UI/UX design projects, struct
 
 ---
 
-### **Tools & Skills**  
-✔ **Design & Prototyping:** Figma, Adobe Illustrator  
-✔ **Content & Structure:** WordPress, SEO, Digital Layouts  
-✔ **Collaboration Tools:** Jira, Trello, Slack  
+### 💜**Tools & Skills**  
+- **Design & Prototyping:** Figma, Adobe Illustrator  
+- **Content & Structure:** WordPress, SEO, Digital Layouts  
+- **Collaboration Tools:** Jira, Trello, Slack  
 
 ---
 

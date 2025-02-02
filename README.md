@@ -1,36 +1,27 @@
 # Hey 💜 I'm Emmi, a Creative Techie!  
-### Creative Techie | Business Information Technology Student | Web Content & Project Coordination  
+### Business IT Student | UI/UX & Web Content | Structured Digital Solutions
 
-I'm a **Business Information Technology student** with hands-on experience in **web content management, project coordination, and customer success**. I’ve worked with **WordPress, Jira, Trello, and Slack**, ensuring structured content and user-friendly digital experiences.  
-
-At **Netello**, I managed **website content for 50+ clients**, optimizing layouts for usability and SEO. My background in **photography and graphic design** sharpens my **attention to detail and creativity**, which I bring into both **technical and customer-focused roles**.  
+Welcome to my GitHub! ✨ Here, you’ll find my **UI/UX design projects, structured digital content, and future development work.** My projects focus on **creating user-friendly, visually structured designs** while balancing **accessibility and usability**.  
 
 ---
 
-### 🔥 **What You’ll Find Here:**  
-🎨 **UI/UX & Web Content Projects** (Figma, WordPress)  
-💻 **Exploring Mobile Development & AI**  
-🚀 **Project Coordination & Digital Solutions**  
+### **What You’ll Find Here**  
+🎨 **UI/UX Design Projects** – Creating clean, structured, and user-friendly digital experiences (**Figma-based prototypes**)  
+    💜 **🌤 Weather App UI – Figma Prototype** → [GitHub Repo]  
+    💜 **♻️ Greenola – Mobile App UI – Figma Prototype** → [GitHub Repo]  
+
+**More projects coming soon!**  
 
 ---
 
-### 📌 **Projects**  
-🌤 **Weather App – UI/UX Design**  
-📌 Designed a **modern, structured UI** for a weather desktop app  
-📌 Focused on **usability, accessibility, & visual hierarchy**  
-📌 Used **Figma** for wireframes & interactive elements  
-🔗 [GitHub Repo](#)  
-
-♻️ **Greenola – Mobile App Prototype**  
-📌 Co-designed an **eco-friendly app** promoting sustainable living  
-📌 Created **color schemes, branding elements, and UI components**  
-📌 Ensured **smooth navigation & accessibility** for users  
-🔗 [GitHub Repo](#)  
-
-🚀 **More projects coming soon!**  
+### 🛠 **Tools & Skills**  
+✔ **Design & Prototyping:** Figma, Adobe Illustrator  
+✔ **Content & Structure:** WordPress, SEO, Digital Layouts  
+✔ **Collaboration Tools:** Jira, Trello, Slack  
 
 ---
 
-### 🔗 **Connect With Me:**  
+🔗 **Let’s connect!**  
 💼 [LinkedIn](https://linkedin.com/in/emmituomisto) | 📧 [Your Email]  
+
 

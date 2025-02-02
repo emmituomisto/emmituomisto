@@ -6,22 +6,22 @@ Welcome to my GitHub! ✨ Here, you’ll find my **UI/UX design projects, struct
 ---
 
 ### **What You’ll Find Here**  
-🎨 **UI/UX Design Projects** – Creating clean, structured, and user-friendly digital experiences (**Figma-based prototypes**)  
-    💜 **🌤 Weather App UI – Figma Prototype** → [GitHub Repo]  
-    💜 **♻️ Greenola – Mobile App UI – Figma Prototype** → [GitHub Repo]  
+💜 **UI/UX Design Projects** – Creating clean, structured, and user-friendly digital experiences (**Figma-based prototypes**)  
+    💜 ** Weather App UI – Figma Prototype** → [GitHub Repo]  
+    💜 ** Greenola – Mobile App UI – Figma Prototype** → [GitHub Repo]  
 
 **More projects coming soon!**  
 
 ---
 
-### 🛠 **Tools & Skills**  
+### **Tools & Skills**  
 ✔ **Design & Prototyping:** Figma, Adobe Illustrator  
 ✔ **Content & Structure:** WordPress, SEO, Digital Layouts  
 ✔ **Collaboration Tools:** Jira, Trello, Slack  
 
 ---
 
-🔗 **Let’s connect!**  
-💼 [LinkedIn](https://linkedin.com/in/emmituomisto) | 📧 [Your Email]  
+**Let’s connect!**  
+[LinkedIn](https://linkedin.com/in/emmituomisto) | 📧 [Your Email]  
 
 

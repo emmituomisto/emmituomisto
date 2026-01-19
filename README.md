@@ -14,11 +14,11 @@ Welcome to my GitHub! ✨ Here you’ll find a small selection of projects that 
 <br>
 
 💜 **Concept & Platform Thinking** – Tech-based concepts, service design, and early-stage digital platform thinking.
-   - Project Soopeli – Tech-Based Social Business Concept → [View Repository](https://github.com/emmituomisto/project-soopeli)
+   - **Project Soopeli – Tech-Based Social Business Concept** → [View Repository](https://github.com/emmituomisto/project-soopeli)
 
- 
+<br> 
 
-**More projects coming soon!**  
+More projects coming soon! 
 
 ---
 

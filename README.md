@@ -15,16 +15,14 @@ Welcome to my GitHub! ✨ Here you’ll find a small selection of projects that 
 
 💜 **Concept & Platform Thinking** – Tech-based concepts, service design, and early-stage digital platform thinking.
    - **Project Soopeli – Tech-Based Social Business Concept** → [View Repository](https://github.com/emmituomisto/project-soopeli)
-
-<br> 
-
-More projects coming soon! 
+   - **Project Career Hub – Personal career hub app, designed in Figma and implemented with Power Apps (work in progress)** → [View Repository](https://github.com/emmituomisto/career-hub)
 
 ---
 
 ### **Tools & Skills**  
 - **Design & Prototyping:** Figma, Adobe Illustrator, Adobe Photoshop  
-- **Content & Structure:** WordPress, SEO, Digital Layouts  
+- **Technologies:** Microsoft Power Platform (Power Apps, Dataverse and Power Automate for Teams)
+- **Documentation**: Word, Github
 - **Collaboration Tools:** Jira, Trello, Slack, Miro  
 
 ---

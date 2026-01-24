@@ -1,7 +1,7 @@
 # Hey 💜 I'm Emmi, a Creative Techie!  
 ### Business IT Student | UI/UX & Web Content | Structured Digital Solutions
 
-Welcome to my GitHub! ✨ Here you’ll find a small selection of projects that reflect how I think, design, and structure digital solutions. I enjoy creating clear, user-friendly concepts that balance usability, accessibility, and visual structure.
+Welcome to my GitHub! ✨ Here you’ll find a selection of projects that reflect how I think, design and structure digital solutions. I enjoy creating clear, user-friendly concepts that balance usability, accessibility and visual structure.
 
 ---
 

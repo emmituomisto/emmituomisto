@@ -15,7 +15,7 @@ Welcome to my GitHub! ✨ Here you’ll find a selection of projects that reflec
 
 💜 **Concept & Platform Thinking** – Tech-based concepts, service design, and early-stage digital platform thinking.
    - **Project Soopeli – Tech-Based Social Business Concept** → [View Repository](https://github.com/emmituomisto/project-soopeli)
-   - **Project Career Hub – Personal career hub app (Microsoft Power Platform)** → [View Repository](https://github.com/emmituomisto/career-hub)
+   - **Project Career Hub – Personal Career Hub App (Microsoft Power Platform)** → [View Repository](https://github.com/emmituomisto/career-hub)
 
 ---
 

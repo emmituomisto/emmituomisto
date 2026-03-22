@@ -10,12 +10,15 @@ Welcome to my GitHub! ✨ Here you’ll find a selection of projects that reflec
 💜 **UI/UX Design Projects** – Clean and structured digital experiences, mainly created as Figma-based prototypes.  
    - **Weather Desktop App – UI/UX Design** → [View Repository](https://github.com/emmituomisto/weather-app-ui) 
    - **Green living app for Heinola city – UI/UX Design** → [View Repository](https://github.com/emmituomisto/greenola-ui-design)
+   - **Smart Refrigerator UI Prototype – UI/UX Design** → [View Repository](https://github.com/emmituomisto/smart-fridge-ui-prototype)
+
 
 <br>
 
 💜 **Concept & Platform Thinking** – Tech-based concepts, service design, and early-stage digital platform thinking.
    - **Project Soopeli – Tech-Based Social Business Concept** → [View Repository](https://github.com/emmituomisto/project-soopeli)
    - **Project Career Hub – Personal Career Hub App (Microsoft Power Platform)** → [View Repository](https://github.com/emmituomisto/career-hub)
+
 
 ---
 

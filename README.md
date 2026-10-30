@@ -1,9 +1,7 @@
 # Hey 💜 I'm Emmi, a Creative Techie!  
-### Business IT Student | UI/UX & Web Content | Structured Digital Solutions
-
-Welcome to my GitHub! ✨
 
 ### **What You’ll Find Here**  
+<br>
 
 💜 **UI/UX Design Projects**
    - **Smart Refrigerator UI Prototype – UI/UX Design (2026)** → [View Repository](https://github.com/emmituomisto/smart-fridge-ui-prototype)
